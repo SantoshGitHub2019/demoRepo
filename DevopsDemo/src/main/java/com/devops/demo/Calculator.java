@@ -21,5 +21,9 @@ public class Calculator {
 	public int  sub(int a,int b){
 		return a-b;
 	}
+	
+	public void display(){
+		System.out.println("just for display message");
+	}
 
 }
