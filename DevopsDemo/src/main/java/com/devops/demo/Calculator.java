@@ -13,7 +13,12 @@ public class Calculator {
 		return a+b;
 	}
 	
-	
+	/**
+	 * 
+	 * @param a
+	 * @param b
+	 * @return
+	 */
 	public int  div(int a,int b){
 		return a/b;
 	}
