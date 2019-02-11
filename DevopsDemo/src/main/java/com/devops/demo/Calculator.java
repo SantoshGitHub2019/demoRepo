@@ -2,13 +2,17 @@ package com.devops.demo;
 
 public class Calculator {
 
+	/**
+	 * Mian class
+	 * @param args
+	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
 	}
 	
 	
-	
+	//working on below method functionality
 	public int  add(int a,int b){
 		return a+b;
 	}
